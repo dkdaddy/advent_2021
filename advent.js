@@ -28,8 +28,8 @@ const images = [
     'penguin',
 ];
 const james = [
-    `j1.jpg`,
-    `j2.jpg`,
+    `dec1j.jpg`,
+    `dec2.jpg`,
     `j3.jpg`,
     `j4.jpg`,
     `j5.jpg`,
@@ -55,8 +55,7 @@ const james = [
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
-    'Did you hear the news about Colonel Mustard? 321706',
-    'Where did the rain in Spain fall mainly? QT839200340GB',
+    'dec2b.jpg',
     'Feeling unwell? Maybe you should visit the hospital. 000194',
     'Still ill? Try again. 455033',
     `Martell or Lieberher, IT's all the same. 899558`,
