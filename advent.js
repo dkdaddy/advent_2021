@@ -29,7 +29,7 @@ const images = [
 ];
 const james = [
     `dec1j.jpg`,
-    `dec2.jpg`,
+    `dec2j.jpg`,
     `j3.jpg`,
     `j4.jpg`,
     `j5.jpg`,
