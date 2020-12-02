@@ -30,7 +30,7 @@ const images = [
 const james = [
     `dec1j.jpg`,
     `dec2j.jpg`,
-    `j3.jpg`,
+    `dec3j.jpg`,
     `j4.jpg`,
     `j5.jpg`,
     `enigmatic cuisine container`,
@@ -56,7 +56,7 @@ const james = [
 const ben = [
     `Bon Jovi drummer ! 174471`,
     'dec2b.jpg',
-    'Feeling unwell? Maybe you should visit the hospital. 000194',
+    'dec3b.jpg',
     'Still ill? Try again. 455033',
     `Martell or Lieberher, IT's all the same. 899558`,
     'You will need to Co-Operate again for this one. 300350',
