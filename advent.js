@@ -31,52 +31,15 @@ const james = [
     `dec1j.jpg`,
     `dec2j.jpg`,
     `dec3j.jpg`,
-    `j4.jpg`,
-    `j5.jpg`,
-    `enigmatic cuisine container`,
-    '12.2cm does not seem far to wave',
-    'Need a fuse?',
-    'j9.jpg',
-    `You'll need to paradiddle`,
-    `2.616e2 cycles per second`,
-    `when is a door not a door?`,
-    `Famous cricketer looks behind to 1880`,
-    `Turning the tables leads to a nutty outcome`,
-    `Don't let the pirate sink you`,
-    `j16.png`,
-    `j17.png`,
-    `only time will tell`,
-    `Don't let your fan be left behind`,
-    `HP rests at hedge 1 Wood `,
-    `You'll need to co-operate. 388___`,
-    `How to make a pizza rustic?`,
-    `gm1.png`,
-    `gm3.png`
+    `d4j.jpg`
+
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
     'dec2b.jpg',
     'dec3b.jpg',
-    'Still ill? Try again. 455033',
-    `Martell or Lieberher, IT's all the same. 899558`,
-    'You will need to Co-Operate again for this one. 300350',
-    'What did the Dr say to the man who swallowed a coin? Any change? 253554',
-    'album.universally.cowboy',
-    `The MIB's rapping son's name mis-spelt. 017592`,
-    '127.0.0.1',
-    `enigmatic cuisine container`,
-    `12.2cm does not seem far to wave`,
-    `When Ben met Coleman`,
-    `Don't let the pirate sink you`,
-    `j5.jpg`,
-    `b17.png`,
-    `The door to nowhere`,
-    `Don't get bowled en placard`,
-    `Don't get trapped`,
-    `You'll need to co-operate. ___510`,
-    `Contrate on 28`,
-    `gm2.png`,
-    `gm4.png`
+    'Are you sitting comfortably? With harmony, intelligence and wisdom'
+    
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
