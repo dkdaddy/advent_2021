@@ -31,14 +31,16 @@ const james = [
     `dec1j.jpg`,
     `dec2j.jpg`,
     `dec3j.jpg`,
-    `d4j.jpg`
+    `d4j.jpg`,
+    `j5.jpg`
 
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
     'dec2b.jpg',
     'dec3b.jpg',
-    'Are you sitting comfortably? With harmony, intelligence and wisdom'
+    'Are you sitting comfortably? With harmony, intelligence and wisdom',
+    'b5.jpg'
     
 ];
 function getImage(day) {
