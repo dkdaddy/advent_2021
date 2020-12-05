@@ -32,7 +32,9 @@ const james = [
     `dec2j.jpg`,
     `dec3j.jpg`,
     `d4j.jpg`,
-    `j5.jpg`
+    `j5.jpg`,
+    `Try not to get squashed`,
+    `Just ask Alexa`
 
 ];
 const ben = [
@@ -40,8 +42,9 @@ const ben = [
     'dec2b.jpg',
     'dec3b.jpg',
     'Are you sitting comfortably? With harmony, intelligence and wisdom',
-    'b5.jpg'
-    
+    'b5.jpg',
+    'Hello Tosh',
+    `Just ask Alexa`    
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
