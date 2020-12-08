@@ -44,7 +44,8 @@ const ben = [
     'Are you sitting comfortably? With harmony, intelligence and wisdom',
     'b5.jpg',
     'Hello Tosh',
-    `Just ask Alexa`    
+    `Just ask Alexa`, 
+    'toy.jpg'  
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
