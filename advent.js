@@ -34,8 +34,10 @@ const james = [
     `d4j.jpg`,
     `j5.jpg`,
     `Try not to get squashed`,
-    `Just ask Alexa`
-
+    `Just ask Alexa`,
+    `The Secret Kingdom`,
+    'toy.jpg',
+    `met.jpg`
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -45,7 +47,10 @@ const ben = [
     'b5.jpg',
     'Hello Tosh',
     `Just ask Alexa`, 
-    'toy.jpg'  
+    'toy.jpg',
+    `After Polythene Pam? Try Abbey Road`,
+    `flav.jpg`
+
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
