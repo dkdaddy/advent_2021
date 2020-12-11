@@ -37,7 +37,8 @@ const james = [
     `Just ask Alexa`,
     `The Secret Kingdom`,
     'toy.jpg',
-    `met.jpg`
+    `met.jpg`,
+    `Santa may have a squeeze`
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -49,8 +50,8 @@ const ben = [
     `Just ask Alexa`, 
     'toy.jpg',
     `After Polythene Pam? Try Abbey Road`,
-    `flav.jpg`
-
+    `flav.jpg`,
+    `Oh, the Lacoste Borie!`
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
