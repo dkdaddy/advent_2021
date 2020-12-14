@@ -38,7 +38,10 @@ const james = [
     `The Secret Kingdom`,
     'toy.jpg',
     `met.jpg`,
-    `Santa may have a squeeze`
+    `Santa may have a squeeze`,
+    `Shikamaru's Battle`,
+    `How smart are E&T?`,
+    `Study very small metals    `
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -51,7 +54,10 @@ const ben = [
     'toy.jpg',
     `After Polythene Pam? Try Abbey Road`,
     `flav.jpg`,
-    `Oh, the Lacoste Borie!`
+    `Oh, the Lacoste Borie!`,
+    `Hiding deep in 13`,
+    `fila`,
+    `When is a door not a door?`
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
