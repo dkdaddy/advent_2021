@@ -41,7 +41,8 @@ const james = [
     `Santa may have a squeeze`,
     `Shikamaru's Battle`,
     `How smart are E&T?`,
-    `Study very small metals    `
+    `Study very small metals    `,
+    `too small to print`
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -57,7 +58,8 @@ const ben = [
     `Oh, the Lacoste Borie!`,
     `Hiding deep in 13`,
     `fila`,
-    `When is a door not a door?`
+    `When is a door not a door?`,
+    `fix a puncture on the turbo`
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
