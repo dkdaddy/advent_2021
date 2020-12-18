@@ -42,7 +42,10 @@ const james = [
     `Shikamaru's Battle`,
     `How smart are E&T?`,
     `Study very small metals    `,
-    `too small to print`
+    `too small to print`,
+    `dec3b.jpg`,
+    `Mischief Brew 3rd time around`,
+    `Wow! It's a Hammer Horrer`
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -59,7 +62,10 @@ const ben = [
     `Hiding deep in 13`,
     `fila`,
     `When is a door not a door?`,
-    `fix a puncture on the turbo`
+    `fix a puncture on the turbo`,
+    `Where Forrest Gump follows Silence of the Lambs`,
+    `Bill Haley April 1954`,
+    `Bill Haley November 1954`
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
