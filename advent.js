@@ -67,6 +67,28 @@ const ben = [
     `Bill Haley April 1954`,
     `Bill Haley November 1954`
 ];
+const deb = [
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    'd4j.jpg',
+    '12.2cm does not seem far to wave'
+];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
 }
@@ -77,7 +99,7 @@ function getClue(day) {
     if (month<11 || day>today) 
         return ''; // no clue until the day
     const href = window.location.href;
-    const clues = href.indexOf('james') > 0 ? james : ben;
+    const clues = href.indexOf('deb') > 0 ? deb : (href.indexOf('james') > 0 ? james : ben);
     return clues[day - 1];
 }
 function load() {
