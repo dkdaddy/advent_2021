@@ -45,7 +45,9 @@ const james = [
     `too small to print`,
     `dec3b.jpg`,
     `Mischief Brew 3rd time around`,
-    `Wow! It's a Hammer Horrer`
+    `Wow! It's a Hammer Horrer`,
+    `Have a gas but don't bang your head`,
+    `The sea can be black when it's sharp`
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -65,7 +67,9 @@ const ben = [
     `fix a puncture on the turbo`,
     `Where Forrest Gump follows Silence of the Lambs`,
     `Bill Haley April 1954`,
-    `Bill Haley November 1954`
+    `Bill Haley November 1954`,
+    `My Ford is a super seven`,
+    `DA_Cambridge_c1937.jpg`
 ];
 const deb = [
     '',
