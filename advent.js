@@ -47,7 +47,11 @@ const james = [
     `Mischief Brew 3rd time around`,
     `Wow! It's a Hammer Horrer`,
     `Have a gas but don't bang your head`,
-    `The sea can be black when it's sharp`
+    `The sea can be black when it's sharp`,
+    `dvd.jpg`,  // chimney - moisturiser
+    `Mike ou Bob`,  // sully - celebrations
+    ``,  // sink - jenga
+    ``   // under TV - board game
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -69,7 +73,11 @@ const ben = [
     `Bill Haley April 1954`,
     `Bill Haley November 1954`,
     `My Ford is a super seven`,
-    `DA_Cambridge_c1937.jpg`
+    `DA_Cambridge_c1937.jpg`,
+    `hp.jpg`, // under stairs - HP
+    `基本`, // book case - sauce
+    `Squid on Strike`, // under floor - big night in
+    `10. Maddie visits Harry`  // vinyl - Bosch episode - board game
 ];
 const deb = [
     '',
@@ -91,7 +99,11 @@ const deb = [
     '',
     '',
     'd4j.jpg',
-    '12.2cm does not seem far to wave'
+    '12.2cm does not seem far to wave',
+    `jan.jpg`, // wine - manicure
+    `photo488535.jpg`, // hidden cupboard - bath bombs
+    `j1.jpg`, // clock - olay
+    ``  // book - gin
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
