@@ -50,8 +50,8 @@ const james = [
     `The sea can be black when it's sharp`,
     `dvd.jpg`,  // chimney - moisturiser
     `Mike ou Bob`,  // sully - celebrations
-    ``,  // sink - jenga
-    ``   // under TV - board game
+    `z.jpg`,  //  under TV - jenga
+    `Duck!`   // chimney - board game
 ];
 const ben = [
     `Bon Jovi drummer ! 174471`,
@@ -103,7 +103,7 @@ const deb = [
     `jan.jpg`, // wine - manicure
     `photo488535.jpg`, // hidden cupboard - bath bombs
     `j1.jpg`, // clock - olay
-    ``  // book - gin
+    `vous aurez besoin d'un tonique`  // book - gin
 ];
 function getImage(day) {
     return `./media/${images[day - 1]}.webp`;
